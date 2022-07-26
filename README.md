@@ -7,7 +7,7 @@ Here's sneak peek:
 - 🔭 I’m currently working on [funless](https://github.com/funlessdev)
 - 🌱 and learning about Concurrency Theory (computer sciency things)
 - 👯 I’m looking to collaborate on [rustodon](https://github.com/giusdp/rustodon) (a new rust client library for the Mastodon API)
-- 📫 How to reach me: geedp@livellosegreto.it on Mastodon (it's my only social network)
+- 📫 How to reach me: [geedp@livellosegreto.it](https://livellosegreto.it/web/@geedp) on Mastodon (it's my only social network)
 
 I opened a blog recently where I talk about stuff I'm studying or I like: [my blog](https://giuseppedepalma.me).
 
