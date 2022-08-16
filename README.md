@@ -9,7 +9,7 @@ Here's sneak peek:
 - 👯 I’m looking to collaborate on [rustodon](https://github.com/giusdp/rustodon) (a new rust client library for the Mastodon API)
 - 📫 How to reach me: [geedp@livellosegreto.it](https://livellosegreto.it/web/@geedp) on Mastodon (it's my only social network)
 
-I opened a blog recently where I talk about stuff I'm studying or I like: [my blog](https://www.giuseppedepalma.com).
+I opened a blog recently where I talk about stuff I'm studying or I like: [my blog](https://giuseppedepalma.com).
 
 If you want to buy me a coffee (with some jokes about coffees -> publications...) to a poor student:
 
