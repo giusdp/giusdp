@@ -10,9 +10,6 @@ Here's sneak peek:
 
 I opened a blog recently where I talk about stuff I'm studying or I like: [my blog](https://giuseppedepalma.com).
 
-If you want to buy me a coffee (with some jokes about coffees -> publications...) to a poor student:
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I3E0YYN)
 <!--
 **giusdp/giusdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
