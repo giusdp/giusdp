@@ -8,8 +8,6 @@ Here's sneak peek:
 - 🔭 Researching configuration languages for serverless platforms
 - 📫 How to reach me: [giusdp@gladtech.social](https://gladtech.social/web/@giusdp) on Mastodon or chat on [Linkedin](https://www.linkedin.com/in/giusdp)
 
-I opened a blog where I talk about stuff I'm studying or I like: [my blog](https://giuseppedepalma.com).
-
 <!--
 **giusdp/giusdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
