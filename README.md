@@ -2,11 +2,10 @@
 
 Here's sneak peek:
 
-
-- ⚡ Ph.D. student in Computer Science and Engineering.
-- 👯 I’m currently working on [FunLess](https://funless.dev), a new FaaS platform from scratch made in Elixir & WebAssembly.
+- ⚡ Ph.D. student in Computer Science and Engineering @ the university of Bologna, Italy.
 - 🔭 Researching configuration languages for serverless platforms
-- 📫 How to reach me: [giusdp@gladtech.social](https://gladtech.social/web/@giusdp) on Mastodon or chat on [Linkedin](https://www.linkedin.com/in/giusdp)
+- 👯 I’m currently working on [FunLess](https://funless.dev), an experimental FaaS platform from in Elixir to WebAssembly functions.
+- 📫 How to reach me: chat on [Linkedin](https://www.linkedin.com/in/giusdp) or via email (my GitHub public email)
 
 <!--
 **giusdp/giusdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
