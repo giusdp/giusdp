@@ -4,7 +4,8 @@ Here's sneak peek:
 
 - ⚡ Ph.D. student in Computer Science and Engineering @ the university of Bologna, Italy.
 - 🔭 Researching configuration languages for serverless platforms
-- 👯 I’m currently working on [FunLess](https://funless.dev), an experimental FaaS platform from in Elixir to WebAssembly functions.
+- 💻 Developer at [Nuvolaris](https://www.nuvolaris.io/)
+- 👯 I also work on my won serverless platform [FunLess](https://funless.dev), in Elixir with WebAssembly functions.
 - 📫 How to reach me: chat on [Linkedin](https://www.linkedin.com/in/giusdp) or via email (my GitHub public email)
 
 <!--
