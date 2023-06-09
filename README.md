@@ -4,7 +4,7 @@ Here's sneak peek:
 
 - ⚡ Ph.D. student in Computer Science and Engineering @ the university of Bologna, Italy.
 - 🔭 Researching configuration languages for serverless platforms
-- 💻 Developer at [Nuvolaris](https://www.nuvolaris.io/), mostly in working in Go!
+- 💻 Developer at [Nuvolaris](https://www.nuvolaris.io/), working mostly with Go!
 - 👯 I also work on my own serverless platform [FunLess](https://funless.dev), in Elixir with WebAssembly functions.
 - 📫 How to reach me: chat on [Linkedin](https://www.linkedin.com/in/giusdp) or via email (my GitHub public email)
 
