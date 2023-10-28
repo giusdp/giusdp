@@ -1,13 +1,17 @@
 ### Hi there 👋
 
-Here's sneak peek:
+* I'm Giuseppe, an italian developer and Ph.D. student in Computer Science and Engineering from the University of Bologna.
+* I work mainly on distributed systems and serverless platforms. Currently I do research on configuration languages for scheduling in serverless!
+* I also am a Software Engineer at [Nuvolaris](https://www.nuvolaris.io/), a startup in serverless computing (yet again).
+* There I use Go, but I'm also picking up Svelte and Tailwind.
+* I'm a passionate coder working in the open source space, so I also have my own project!
+  - My own serverless platform [FunLess](https://funless.dev) (yet again x2), in Elixir, experimenting with WebAssembly functions.
+  - A [Dialog System plugin](https://github.com/giusdp/bevy_talks) for the [Bevy](https://github.com/giusdp/bevy_talks) game engine (in Rust).
 
-- ⚡ Ph.D. student in Computer Science and Engineering @ the university of Bologna, Italy.
-- 🔭 Researching configuration languages for serverless platforms
-- 💻 Go Developer at [Nuvolaris](https://www.nuvolaris.io/)
-- 👯 I also work on my own serverless platform [FunLess](https://funless.dev), in Elixir with WebAssembly functions.
-- 🎮 Building a [Dialog System plugin](https://github.com/giusdp/bevy_talks) for the [Bevy](https://github.com/giusdp/bevy_talks) game engine (in Rust).
-- 📫 How to reach me: chat on [Linkedin](https://www.linkedin.com/in/giusdp) or via email (my GitHub public email)
+How to reach me: 
+- chat on [Linkedin](https://www.linkedin.com/in/giusdp);
+- via email (my GitHub public email);
+- I also got a [Blue Sky account](bsky.app/profile/giusdp.bsky.social) now.
 
 <!--
 **giusdp/giusdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
