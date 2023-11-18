@@ -11,7 +11,7 @@
 How to reach me: 
 - chat on [Linkedin](https://www.linkedin.com/in/giusdp);
 - via email (my GitHub public email);
-- I also got a [Blue Sky account](bsky.app/profile/giusdp.bsky.social) now.
+- I also got a [Mastodon account](https://livellosegreto.it/@geedp).
 
 <!--
 **giusdp/giusdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
