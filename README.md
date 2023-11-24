@@ -2,10 +2,10 @@
 
 * I'm Giuseppe, an italian developer and Ph.D. student in Computer Science and Engineering from the University of Bologna.
 * I work mainly on distributed systems and serverless platforms. Currently I do research on configuration languages for scheduling in serverless!
-* I also am a Software Engineer at [Nuvolaris](https://www.nuvolaris.io/), a startup in serverless computing (yet again).
+* I also am a Software Engineer at [Nuvolaris](https://www.nuvolaris.io/), a startup in serverless computing (again serverless).
 * There I use Go, but I'm also picking up Svelte and Tailwind.
-* I'm a passionate coder working in the open source space, so I also have my own project!
-  - My own serverless platform [FunLess](https://funless.dev) (yet again x2), in Elixir, experimenting with WebAssembly functions.
+* I'm a passionate coder working in the open source space, so I also have my own projects:
+  - A little serverless platform [FunLess](https://funless.dev) (again x2), in Elixir, experimenting with WebAssembly functions.
   - A [Dialog System plugin](https://github.com/giusdp/bevy_talks) for the [Bevy](https://github.com/giusdp/bevy_talks) game engine (in Rust).
 
 How to reach me: 
