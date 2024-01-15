@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 * I'm Giuseppe, an italian developer and Ph.D. student in Computer Science and Engineering from the University of Bologna.
-* I work mainly on distributed systems and serverless platforms. Currently I do research on configuration languages for scheduling in serverless!
-* I also am a Software Engineer at [Nuvolaris](https://www.nuvolaris.io/), a startup in serverless computing (I'm using mostly Go here, but I'm picking up Svelte and Tailwind as well).
-* I'm a passionate coder working with my own projects:
-  - A little serverless platform [FunLess](https://funless.dev), in Elixir, experimenting with WebAssembly functions.
-  - A [plugin to write dialogues](https://github.com/giusdp/bevy_talks) for the [Bevy](https://github.com/giusdp/bevy_talks) game engine (in Rust).
+* I work mainly on distributed systems and serverless platforms. Currently researching configuration languages for scheduling in serverless.
+* I also am a Software Engineer at [Nuvolaris](https://www.nuvolaris.io/), a startup in serverless computing (mostly using Go there).
+* I'm a passionate coder working on my own projects:
+  - A little serverless platform [FunLess](https://funless.dev) in Elixir, experimenting with WebAssembly functions.
+  - A [plugin to write dialogues](https://github.com/giusdp/bevy_talks) for the [Bevy](https://github.com/giusdp/bevy_talks) game engine (Rust).
 
 How to reach me: 
 - chat on [Linkedin](https://www.linkedin.com/in/giusdp);
