@@ -6,7 +6,7 @@
 * I'm a passionate coder working on a lot of projects:
   - A little serverless platform [FunLess](https://funless.dev) in Elixir, experimenting with WebAssembly functions.
   - A [plugin to write dialogues](https://github.com/giusdp/bevy_talks) for the [Bevy](https://github.com/giusdp/bevy_talks) game engine (Rust).
-  - A game with the Zig programming language.
+  - Websites, games, backends...
 
 How to reach me: 
 - chat on [Linkedin](https://www.linkedin.com/in/giusdp);
