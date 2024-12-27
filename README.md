@@ -10,7 +10,7 @@
 How to reach me: 
 - chat on [Linkedin](https://www.linkedin.com/in/giusdp);
 - via email (my GitHub public email);
-- my blog: [giusdp.github.io](giusdp.github.io)
+- my blog: [giusdp.github.io](https://giusdp.github.io)
 
 <!--
 **giusdp/giusdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
