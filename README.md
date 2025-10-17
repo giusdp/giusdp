@@ -10,5 +10,5 @@
 How to reach me: 
 - chat on [Linkedin](https://www.linkedin.com/in/giusdp);
 - via email (my GitHub public email);
-- my blog: [giusdp.github.io](https://giusdp.github.io);
+- my website: [giusdp.github.io](https://giusdp.github.io);
 - on bluesky: [my profile](https://bsky.app/profile/giusdp.bsky.social);
